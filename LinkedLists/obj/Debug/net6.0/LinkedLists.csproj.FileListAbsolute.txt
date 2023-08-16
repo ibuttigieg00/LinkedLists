@@ -1,0 +1,15 @@
+/Users/izaakbuttigieg/Documents/LinkedLists/LinkedLists/bin/Debug/net6.0/LinkedLists
+/Users/izaakbuttigieg/Documents/LinkedLists/LinkedLists/bin/Debug/net6.0/LinkedLists.deps.json
+/Users/izaakbuttigieg/Documents/LinkedLists/LinkedLists/bin/Debug/net6.0/LinkedLists.runtimeconfig.json
+/Users/izaakbuttigieg/Documents/LinkedLists/LinkedLists/bin/Debug/net6.0/LinkedLists.dll
+/Users/izaakbuttigieg/Documents/LinkedLists/LinkedLists/bin/Debug/net6.0/LinkedLists.pdb
+/Users/izaakbuttigieg/Documents/LinkedLists/LinkedLists/obj/Debug/net6.0/LinkedLists.csproj.AssemblyReference.cache
+/Users/izaakbuttigieg/Documents/LinkedLists/LinkedLists/obj/Debug/net6.0/LinkedLists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/izaakbuttigieg/Documents/LinkedLists/LinkedLists/obj/Debug/net6.0/LinkedLists.AssemblyInfoInputs.cache
+/Users/izaakbuttigieg/Documents/LinkedLists/LinkedLists/obj/Debug/net6.0/LinkedLists.AssemblyInfo.cs
+/Users/izaakbuttigieg/Documents/LinkedLists/LinkedLists/obj/Debug/net6.0/LinkedLists.csproj.CoreCompileInputs.cache
+/Users/izaakbuttigieg/Documents/LinkedLists/LinkedLists/obj/Debug/net6.0/LinkedLists.dll
+/Users/izaakbuttigieg/Documents/LinkedLists/LinkedLists/obj/Debug/net6.0/refint/LinkedLists.dll
+/Users/izaakbuttigieg/Documents/LinkedLists/LinkedLists/obj/Debug/net6.0/LinkedLists.pdb
+/Users/izaakbuttigieg/Documents/LinkedLists/LinkedLists/obj/Debug/net6.0/LinkedLists.genruntimeconfig.cache
+/Users/izaakbuttigieg/Documents/LinkedLists/LinkedLists/obj/Debug/net6.0/ref/LinkedLists.dll
